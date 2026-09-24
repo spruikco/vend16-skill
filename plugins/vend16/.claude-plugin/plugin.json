@@ -1,0 +1,10 @@
+{
+  "name": "vend16",
+  "version": "1.0.0",
+  "description": "Add verified App Store and Google Play in-app purchases to your app with Vend16.",
+  "author": { "name": "Spruik Co", "url": "https://vend16.com" },
+  "homepage": "https://vend16.com",
+  "repository": "https://github.com/spruikco/vend16-skill",
+  "license": "MIT",
+  "keywords": ["in-app-purchases", "storekit", "google-play-billing", "capacitor", "subscriptions", "revenuecat-alternative"]
+}

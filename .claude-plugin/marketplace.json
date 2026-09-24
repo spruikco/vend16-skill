@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "vend16",
+  "description": "Vend16 for Claude Code: add verified App Store and Google Play in-app purchases to any app, wired end to end by your agent.",
+  "version": "1.0.0",
+  "owner": { "name": "Spruik Co", "url": "https://github.com/spruikco" },
+  "plugins": [
+    {
+      "name": "vend16",
+      "description": "Adds verified in-app purchases (StoreKit 2 + Google Play Billing) to Capacitor, React Native, Flutter or native apps using Vend16, and lists the store settings still to change.",
+      "source": "./plugins/vend16",
+      "category": "development"
+    }
+  ]
+}
