@@ -29,4 +29,4 @@ A free Vend16 account (first 100 live purchases free, unlimited test purchases):
 
 The client plugin for Capacitor is open source: https://github.com/spruikco/capacitor-iap
 
-MIT licensed. Made in Melbourne by [Spruik](https://spruik.co).
+MIT licensed. Made by [Spruik](https://spruik.co).
