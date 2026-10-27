@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vend16": {
+      "type": "http",
+      "url": "https://vend16.com/mcp"
+    }
+  }
+}
